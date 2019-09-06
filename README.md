@@ -12,7 +12,6 @@ Run `./install.sh` to install the packages you need. After that run `./run.sh` t
 
 If you are on Windows, that sucks, figure it out (or add powershell scripts to do these steps, plz)
 
-
 ## Prawn
 
 Prawn is used to make PDFs. That's nice. [Here is the Prawn manual](http://prawnpdf.org/manual.pdf).
